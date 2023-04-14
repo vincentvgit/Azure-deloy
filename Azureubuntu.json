@@ -60,7 +60,7 @@
       },
       "OSVersion": {
         "type": "string",
-        "defaultValue": "UbuntuServer",
+        "defaultValue": "2022-datacenter-azure-edition",
         "allowedValues": [
           "2016-datacenter-gensecond",
           "2016-datacenter-server-core-g2",
